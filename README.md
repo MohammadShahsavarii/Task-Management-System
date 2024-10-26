@@ -1,4 +1,4 @@
-# Task-Management-System
+# TaskMaster - Task-Management-System
 
 ## Overview
 TaskMaster is a web-based application designed to help users efficiently manage their tasks, track progress, and receive reminders for upcoming deadlines. It allows users to add, update, and delete tasks, set task priorities, and customize their experience with user settings. This README outlines the project vision, features, user stories, scenarios, and the development plan.
